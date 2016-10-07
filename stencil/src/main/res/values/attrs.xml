@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <declare-styleable name="StencilView">
+    <attr name="sv_strokeWidth" format="float" />
+    <attr name="sv_strokeColor" format="color|reference" />
+    <attr name="sv_textSize" format="dimension|reference" />
+    <attr name="sv_text" format="string|reference" />
+  </declare-styleable>
+</resources>
