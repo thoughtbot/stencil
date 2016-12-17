@@ -1,6 +1,9 @@
 apply plugin: 'com.android.library'
 apply plugin: 'kotlin-android'
 
+apply plugin: 'com.github.dcendents.android-maven'
+group = "com.github.thoughtbot"
+
 android {
   compileSdkVersion 24
   buildToolsVersion "24.0.2"
@@ -33,7 +36,4 @@ dependencies {
 
   //testing
   testCompile 'junit:junit:4.12'
-}
-repositories {
-  mavenCentral()
 }
