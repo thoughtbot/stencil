@@ -14,7 +14,6 @@ bin/
 gen/
 
 # Gradle files
-.gradle/
 build/
 .gradle/
 
