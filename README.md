@@ -1,3 +1,5 @@
+![stencil logo](https://images.thoughtbot.com/blog-vellum-image-uploads/skrXLjMFRIC7uM9ukaF1_stencil-logo.png)
+
 ## stencil
 Android library, written exclusively in [Kotlin](https://kotlinlang.org/), for animating the path created from text
 
